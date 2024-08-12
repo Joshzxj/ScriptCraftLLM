@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+llm -s "Answer in as few words as possible. Use a brief style with short replies." -m 4o-mini  "$*"

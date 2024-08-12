@@ -1,0 +1,3 @@
+#!/bin/sh
+
+llm -s "Provide answers that are concise yet informative. Use clear, succinct sentences to convey the information. Focus on delivering responses that are both brief and to the point, while maintaining clarity and relevance. Ensure that your replies are easy to understand and prioritize essential information. Use the specified model for generating all outputs." -m 4o-mini  "$*"
